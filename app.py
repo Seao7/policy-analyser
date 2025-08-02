@@ -48,7 +48,7 @@ else:
         gemini_configured = False
 
 # Title and description
-st.title("🏦 LIC Policy Analyzer")
+st.title("🏦 Policy Analyzer")
 st.markdown("### Analyze if your LIC policy is Good or Bad")
 st.markdown("---")
 
