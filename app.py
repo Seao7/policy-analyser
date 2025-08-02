@@ -49,7 +49,7 @@ else:
 
 # Title and description
 st.title("🏦 Policy Analyzer")
-st.markdown("### Analyze if your LIC policy is Good or Bad")
+st.markdown("### Analyze if your policy is Good or Bad")
 st.markdown("---")
 
 # Main input section
